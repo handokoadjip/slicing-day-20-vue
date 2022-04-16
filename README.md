@@ -1,4 +1,4 @@
-# day-1-vue
+# Designspiration | Valdama
 
 ## Project setup
 ```
